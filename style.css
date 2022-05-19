@@ -1,0 +1,33 @@
+body{
+    background-color: #F1EEE9;
+}
+
+
+
+img{
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+h1{
+   text-align: center;
+   border: 1px solid #73777B;
+   font-size: 50px;
+   
+}
+
+.container{
+    text-align: center;
+    list-style-position: inside;
+    color: #3c131d;
+}
+
+a{
+    color : #15133C;
+    font-size: 25px;;
+    
+}
+
